@@ -75,7 +75,6 @@ A structured task tracking platform supporting CRUD operations and role-based ac
 🏆 Full Stack Java Program (Spring Boot, Frontend, SQL, Git) – SSPU & Capgemini  
 
 ---
-
 📫 Connect with Me  
 
 🌐 LinkedIn: linkedin.com/in/swati-nanvare-55b462285  
